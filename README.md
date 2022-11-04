@@ -4,7 +4,6 @@
 ---
 <h3 align="center">⌨ Languages</h3>
 <div align="center">
-  <img width="25px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
   <img width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
