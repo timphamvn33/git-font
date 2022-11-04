@@ -27,7 +27,7 @@
 ---
 <h3 align="center">📬Reach Me At</h3>
 <a href="https://www.linkedin.com/in/thuong-pham-14442b221/" target="_blank">
-  <img width="25px" src="https://github.com/timphamvn33/timphamvn33/blob/Tim/icon_languages/linkedIn_PNG24.png" />
+  <img width="35px" src="https://github.com/timphamvn33/timphamvn33/blob/Tim/icon_languages/linkedIn_PNG24.png" />
 </a>
 
 
